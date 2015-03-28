@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facebook-API-Kullanarak-Post-ve-Get-Islemleri</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">827187157367757</string>
+    <string name="title_activity_facebook_actions">FacebookActions</string>
+
+</resources>
